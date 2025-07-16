@@ -1,0 +1,9 @@
+# custom.yaml
+
+path: ./dataset
+train: /images/train
+val:  /images/val
+# test:  custom_train_test.txt  # (optional)
+
+nc: 1  # number of classes
+names: ['1']  # class names
