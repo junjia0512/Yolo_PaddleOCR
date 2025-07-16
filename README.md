@@ -34,7 +34,7 @@ conda activate yolocr
 git clone https://github.com/junjia0512/Yolo_PaddleOCR.git
 ```
 
-克隆完成后，会生成一个名为 `Yolo_Paddleocr` 或者你自定义的文件夹。
+克隆完成后，会生成一个名为 `Yolo_PaddleOCR` 或者你自定义的文件夹。
 
 ---
 
@@ -43,7 +43,7 @@ git clone https://github.com/junjia0512/Yolo_PaddleOCR.git
 进入项目目录：
 
 ```bash
-cd Yolo_Paddleocr
+cd Yolo_PaddleOCR
 ```
 
 通常，项目会提供 `requirements.txt`（或 `environment.yml`、`setup.py`）来记录所有依赖包和确切版本。如果是 `requirements.txt`，可运行：
