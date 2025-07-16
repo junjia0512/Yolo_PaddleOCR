@@ -13,7 +13,7 @@
 在终端执行以下命令，新建一个名为 `yolocr` 的环境并指定 Python 3.10 版本：
 
 ```bash
-conda create -n olocr python=3.10
+conda create -n yolocr python=3.10
 ```
 
 系统会提示安装必要的依赖，输入 `y` 确认即可。环境创建完成后，激活该环境：
